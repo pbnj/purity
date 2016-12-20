@@ -1,6 +1,6 @@
 {
   "name": "purity-zsh-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oh-My-ZSH theme inspired by robbyrussell + pure prompt",
   "main": "index.js",
   "scripts": {
