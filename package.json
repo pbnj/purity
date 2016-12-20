@@ -4,7 +4,7 @@
   "description": "Oh-My-ZSH theme inspired by robbyrussell + pure prompt",
   "main": "index.js",
   "scripts": {
-    "postinstall": "mkdir -p $HOME/.oh-my-zsh/themes/ && cp ~/purity.zsh-theme $HOME/.oh-my-zsh/themes/"
+    "postinstall": "mkdir -p $HOME/.oh-my-zsh/custom/themes/ && cp ~/purity.zsh-theme $HOME/.oh-my-zsh/custom/themes/"
   },
   "repository": {
     "type": "git",
