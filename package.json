@@ -1,7 +1,7 @@
 {
-  "name": "purity-prompt",
+  "name": "purity-zsh-theme",
   "version": "1.0.0",
-  "description": "Oh-My-ZSH prompt inspired by robbyrussell + pure",
+  "description": "Oh-My-ZSH theme inspired by robbyrussell + pure prompt",
   "main": "index.js",
   "scripts": {
     "postinstall": "mkdir -p $HOME/.oh-my-zsh/themes/ && cp ~/purity.zsh-theme $HOME/.oh-my-zsh/themes/"
