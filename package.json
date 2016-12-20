@@ -1,0 +1,25 @@
+{
+  "name": "purity-prompt",
+  "version": "1.0.0",
+  "description": "Oh-My-ZSH prompt inspired by robbyrussell + pure",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "mkdir -p $HOME/.oh-my-zsh/themes/ && cp ~/purity.zsh-theme $HOME/.oh-my-zsh/themes/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pmbenjamin/purity.git"
+  },
+  "keywords": [
+    "purity",
+    "prompt",
+    "oh-my-zsh",
+    "zsh"
+  ],
+  "author": "Peter Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmbenjamin/purity/issues"
+  },
+  "homepage": "https://github.com/pmbenjamin/purity#readme"
+}
