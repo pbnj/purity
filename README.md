@@ -24,6 +24,8 @@ PURITY_GIT_PROMPT_CLEAN=✓  # DEFAULT IS ●
 
 # ...
 ```
+## Demo
+![Demo](demo/demo.gif)
 ## Screenshot
-![Purity](./screenshot.png)
+![Purity](demo/screenshot.png)
 
