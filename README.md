@@ -1,5 +1,7 @@
 # Purity ZSH Theme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/purity.svg)](https://greenkeeper.io/)
+
 ## Install
 - Automatic: `npm i -g purity-zsh-theme`
 - Manual:
